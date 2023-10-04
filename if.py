@@ -1,7 +1,7 @@
 # Belajar If-Statement
 # Jika kondisi terpenuhi kita ingin melakukan apa
 
-orang = 10
+orang = 1000
 zombie = 100
 
 
